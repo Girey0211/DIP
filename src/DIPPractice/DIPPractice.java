@@ -18,7 +18,7 @@ class ElectricPowerSwitch implements Switch {
     private boolean on;
 
     /**
-     * ElectricPowerSwitch
+     * ElectricPowerSwitch()
      * @param device
      *
      * device 변수를 받는 생성자
